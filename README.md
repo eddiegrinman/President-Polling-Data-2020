@@ -3,4 +3,4 @@
 ## Select state or national polling. Size of circle indicates quality of pollster (as graded by FiveThirtyEight)
 ## Polling data comes from FiveThirtyEight and is updated weekly
 
-[Link](https://egrinman.shinyapps.io/Polling/)
+[Link to website](https://egrinman.shinyapps.io/Polling/)
